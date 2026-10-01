@@ -1,0 +1,5 @@
+cd desktop 
+
+python control.py
+python telemetry.py 
+ping 192.168.4.1
